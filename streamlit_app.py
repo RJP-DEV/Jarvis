@@ -125,25 +125,25 @@ st.markdown(DESCRIPTION)
 col1, col2 = st.columns(2)
 with col1:
     user_input = st.file_uploader("Voice Chat", type=["wav", "mp3"])
-with col2:
-    output_audio = st.audio("JARVIS", format="audio/wav")
+#with col2:
+   ## output_audio = st.audio("JARVIS", format="audio/wav")
 
 respond_btn = st.button("Response")
 if respond_btn:
     asyncio.run(respond(user_input))
 
-st.markdown(FAST)
+##st.markdown(FAST)
 
-col1, col2, col3 = st.columns(3)
-with col1:
-    user_input = st.text_input("Prompt", value="What's a fun science experiment I can do at home?")
-with col2:
-    input_text = st.text_input("Input Text")
-with col3:
-    output_audio = st.audio("JARVIS", format="audio/wav")
+#col1, col2, col3 = st.columns(3)
+#with col1:
+#    user_input = st.text_input("Prompt", value="What's a fun science experiment I can do at home?")
+#with col2:
+#    input_text = st.text_input("Input Text")
+#with col3:
+#    output_audio = st.audio("JARVIS", format="audio/wav")
 
-generate_btn = st.button("Response")
-if generate_btn:
-    asyncio.run(generate1(user_input))
+#generate_btn = st.button("Response")
+#if generate_btn:
+#    asyncio.run(generate1(user_input))
 
-st.markdown(MORE)
+#st.markdown(MORE)
