@@ -45,4 +45,3 @@ if generate_btn:
 # Markdown section
 st.markdown(MORE)
 
-Please respond with "continue" to proceed with the conversion.
