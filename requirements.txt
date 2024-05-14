@@ -1,0 +1,6 @@
+transformers
+torch
+inflect
+edge-tts
+asyncio
+streaming-stt-nemo==0.2.0

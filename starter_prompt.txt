@@ -1,0 +1,264 @@
+Tell me a joke.
+What's the weather like today?
+Can you recommend a good book?
+What's the capital of Australia?
+Translate 'Hello my friend' and 'Good bye.' to 5 languages of your choise?
+What's the distance between New York and Los Angeles?
+Find a recipe for spaghetti bolognese.
+When I was reading about 74HC595 Shift Register I found a term very commonly used: "Daisy Chain" What is that?
+Who is the president of the United States?
+The day before yesterday I was 25. The next year I will be 28. This is true only one day in a year. What day is my Birthday? 
+Can you show me a CNC code for a cilinder part.
+What is the tallest mountain in the world?
+Tell me a fun fact about space.
+Las Meninas', or the Ladies in Waiting, depicts court life in which city?
+How do I make a margarita?
+Look at this series: 36, 34, 30, 28, 24, … What number should come next?
+Who wrote 'To Kill a Mockingbird'?
+What is the name of the island famous for its huge sculpted heads?
+How petrol engine is different than diesel engine?
+Summary sherlock holmes the norwood mystery.
+Old Woman Frying Eggs' was a 17th century painting by which Spanish artist?
+Summary Alex Rider series show a link to Youtube latest release.
+List 5 famous 'Sherlock Holmes and Dr. Watson' Quotes. 
+What is ADC and DAC on a Microcontroller? Also What are bits in those pins (for e.g. 8 bit ADC, 10 bit ADC etc)
+Recipe of Vietnamese Fresh Spring Rolls
+Which 20th century Mexican artist contracted polio as a child?
+How do I tie a tie?
+What countries influence Argentina cooking ?
+Italy and Spain
+How should medication be stored?
+What is the 120 rule in scuba diving?
+What are scuba certification limits?
+What are the common faults in BJT?
+When you test a good diode with a multimeter, it shows.
+What color is the pigment called ochre, extensively used in Australian aboriginal art?
+Which Spanish painter's works include 'The Tilled Field' and 'The Farm'?
+What may cause  engine overheat?
+What are the two most important things that make a movie great?
+What is GSM and what is GPRS in simple words (Wikipedia is complex) ? What is the difference between them and GPS?
+What are operational-amplifiers? How do they work and can you give me examples of a few common ones?
+To produce P-type semiconductors, you need to add?
+If the Zener Diode is connected in wrong polarity, the voltage across the load is?
+What are the seven wonders of the ancient world?
+What is RTC IC and how to use it with my Arduino?
+Who sent Christopher Columbus to explore the New World?
+When did the construction of the Great Wall of China begin?
+Make a python app that plays snake game
+3 Friends went to a shop and purchased 3 toys. Each person paid Rs.10 which is the cost of one toy. So, they paid Rs.30 i.e. total amount. The shop owner gave a discount of Rs.5 on the total purchase of 3 toys for Rs.30. Then, among Rs.5, Each person has taken Rs.1 and remaining Rs.2 given to the beggar beside the shop. Now, the effective amount paid by each person is Rs.9 and the amount given to the beggar is Rs.2. So, the total effective amount paid is 9*3 = 27 and the amount given to beggar is Rs.2, thus the total is Rs.29. Where has the other Rs.1 gone from the original Rs.30?
+What's the formula for the area of a circle?
+Provide me with a complex G-code of a Horse shape.
+Finish the line President Franklin D. Roosevelt said during his speech addressing the attack on Pearl Harbor: “Yesterday, December 7, 1941…”
+What are the ingredients in a Caesar salad?
+Factor completely 16t2+24t+9 .
+What boy's name is also the name of Michaelangelo's most famous sculpture?
+Recipe of Rendang, Indonesia.
+How do I convert Fahrenheit to Celsius?
+A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are out and he is completely in the dark. How many socks must he take out to make 100 percent certain he has at least one pair of black socks?
+What's the Pythagorean theorem?
+Can you explaing me the meaning of messaging and narrative?
+How many electrons does pentavalent atoms have?
+Expand the following expression: $7(3y+2)$
+Explain what do you mean by independent suspension?
+Which 16th century Italian artist painted 'St George and the Dragon'?
+How do I make a paper airplane?
+Who painted famous British work 'The Hay Wain'?
+What is automotive charging system is made up of?
+One of Salvador Dali's most famous paintings was 'The Burning' what?
+Explain how timing belt works?
+Who was the last Tsar of Russia?
+There is a basket containing 5 apples, how do you divide the apples among 5 children so that each child has 1 apple while 1 apple remains in the basket?
+In which country was the Battle of Culloden fought in 1746?
+What Is pI?
+What are the important components of Engine lubrication system?
+Explain what is the difference between Crankshaft and Camshaft?
+Who is the king of the Olympian gods in Greek mythology?
+Which Greek goddess was the Parthenon dedicated to?
+When did the Mexican Revolution start?
+The United States bought Alaska from which country?
+When was the Declaration of Independence signed?
+Where is the Pyramid of the Sun located?
+Steps to Draw a Lewis Structure
+What are the steps to solve a Rubik's cube?
+Who fought in the Hundred Years’ War?
+How do I bake a chocolate cake?
+What event is commonly believed to have sparked World War I?
+You are an expert programmer that writes simple, concise code and explanations. Write a python function to generate the nth fibonacci number.
+What's the process for photosynthesis?
+A right square pyramid has a base with edges each measuring 3 cm and a height twice the perimeter of its base. What is the volume of the pyramid?
+How do I calculate compound interest?
+Tell me a riddle or two.
+Who was president during the Cuban Missile Crisis?
+Provide the Table of Vapor Pressure Values.
+A block slides along a frictionless surface with a constant acceleration of 2 m/s2. At time t = 0 s the block is at x = 5m and travelling with a velocity of 3 m/s  a- Where is the block at t = 2 seconds? b- What is the block’s velocity at 2 seconds? c- Where is the block when it’s velocity is 10 m/s? d- How long did it take to get to this point?
+A girl meets a lion and unicorn in the forest. The lion lies every Monday, Tuesday and Wednesday and the other days he speaks the truth. The unicorn lies on Thursdays, Fridays and Saturdays, and the other days of the week he speaks the truth. “Yesterday I was lying,” the lion told the girl. “So was I,” said the unicorn. What day is it?
+What are you feeling?
+The day before two days after the day before tomorrow is Saturday. What day is it today?
+Create a YAML configuration for a sophisticated scene that adjusts lighting, temperature, and multimedia based on time of day and occupancy, enhancing comfort and energy efficiency.
+This one could also fall in the lying/truth category. A man is caught on the king's property. He is brought before the king to be punished. The king says, "You must give me a statement. If it is true, you will be killed by lions. If it is false, you will be killed by trampling of wild buffalo. If I can’t figure it out, I’ll have to let you go.” Sure enough, the man was released. What was the man's statement?
+Explain the latest advances in large language models to me. Always cite your sources. Never cite sources older than 2020. # Gives more specific advances and only cites sources from 2020.
+What are you thinking?
+An airplane accelerates down a runway at 3.20 m/s2 for 32.8 s until is finally lifts off the ground. Determine the distance traveled before takeoff?.
+How does your body feel right now?
+What is the best recipe for homemade argentinean pizza?
+What are your symptoms?
+What brought you to therapy?
+What do you feel is wrong in your life?
+Some questions about your history, including your childhood, education, relationships (family, romantic, friends), your current living situation, and your career.
+How do I do a magic trick with cards?
+What are some fun facts about dinosaurs?
+Can you tell me an interesting detective story?
+What are some popular board games?
+How do I draw a cartoon character?
+What's a fun science experiment I can do at home?
+Tell me a tongue twister.
+What are some good jokes for kids?
+Hello Groq! How are you today?
+What are the key considerations for managing in a startup biomedical company a large number of milenial employees, that work mostly remotly and lack interpersonal skills?
+What are the key considerations for managing large datasets in C++ AI applications?
+Can you guide me through implementing real-time data processing using C++ and AI?
+How do I use C++ to optimize neural network performance?
+What are the best practices for writing efficient C++ code for AI algorithms?
+How can I integrate a TensorFlow model into a C++ application?
+Find the largest number among the three numbers.
+Write a Program to check whether a number is prime or not.
+Write a Program in C to Swap the values of two variables without using any extra variable.
+Write a Program to Replace all 0’s with 1’s in a Number
+Write a Program to check if the year is a leap year or not.
+Write a Program to create a pyramid pattern using C.
+Write a Program to print the Maximum and Minimum elements in an array.
+Make a python app to upload a file and save the file name to a SQLite database. You will need to create the database and tables if it doesn’t exist.
+How can I read and understand a company's financial statement for investment purposes?
+What are the best practices for maintaining accurate financial records throughout the year?
+What are the key tax considerations for a small business owner?
+Can you explain the different types of accounting methods and when to use each?
+Can you provide an overview of the latest changes in tax laws affecting individual taxpayers?
+Create a list of [10] frequently asked questions about [keyword] and provide answers for each one of them considering the SERP and rich result guidelines.
+What are the key tax considerations for individual taxpayers?
+Provide a comprehensive overview of [medical condition], including symptoms, causes, and treatment options.
+Create a bullet point list of [10] frequently asked questions about [CAR-T] and provide answers for each one considering the SERP and rich result guidelines.
+What do you see as the future of healthcare?
+Which cells fight foreign organisms in the body?
+Can you explain your understanding of ISO 15189?
+If a biomedical mistake happened in the lab, what would you do?
+What command would show me the disk usage of all user home directories under /home, sorted by size in human-readable format, and excluding directories smaller than 1GB?
+How can I list all installed packages along with their versions on my system and save this information in a CSV file named 'installed_packages.csv', with 'Package Name' and 'Version' as headers?
+Can you give me a Bash command to list the top 5 largest installed packages on my system, displaying their names and sizes, sorted from largest to smallest?
+I need a command to generate a list of all systemd services currently enabled on my system, including their active status (active/inactive), and save this list to a text file named 'services_status.txt'.
+I need to automate [task] with a script in [language]. Can you help with a basic script structure?
+Create a list of [10] frequently asked questions about [keyword] and provide answers for each one of them considering the SERP and rich result guidelines.
+Please guide me to artificial Intelligence llm Model books
+What can you tell me about Harry Potter?
+Write an article about [topic]  include relevant statistics (add the links of the sources you use) and consider diverse perspectives. Write it in a [X_tone] and mention the source links in the end.
+=LEFT(Cell name, number of characters)
+=TEXT(“10/2/2022″,”mmmm dd, yyyy”)
+What is an Excel array formula? 
+Define conditional formatting?
+What is VLOOKUP? 
+What are wildcards in Excel?
+Please expand about Chart in Excel?
+=MIN(context['rows'][settlementCurr = 'USD']['SettleAmt'])
+Where is the bug in this code?
+write a unit test for this function: $(cat fib.py)
+# A simple python function to remove whitespace from a string:
+<PRE> def compute_gcd(x, y): <SUF>return result <MID>
+# django view for rendering the current day and time without a template def current_datetime(request):
+Propose and develop a WEB accounting system written in PHP and javascript. 
+Here's my code: ```[code snippet]```. It works, but it's slow/inefficient. How can I optimize it for better performance?
+How do i run a command in mac at the start of the machine?
+=ARRAYTOTEXT(A2:B4,0)
+Can you recommend a service plan for my [ Vehicle year and Model ]?
+Help me study Vocabulary: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Politics: you write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Physics: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Math: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Biology: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Music: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study History: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Geography: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Logic: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Python: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study PHP: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Typescript: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Chemistry: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Wars: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Accounting: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Movie Production: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Art: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Architecture: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Mechanical engineering: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Electronic engineering: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Systems engineering: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Civil engineering: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Process engineering: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Logistics: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Medical Doctor: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Astro Physics: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Game Design: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Botanical Science: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Carpentry: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Religions in general: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Catolic Religion: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Hebrew Religion: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Muslim Religion: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Christian Religion: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Atheist religion: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Chemical Engineering: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Aerospace Engineering: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Software Engineering: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Electrical Engineering: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Firmware Engineering: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Medical Doctor: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Psychiatrist Doctor: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Pediatrics Doctor: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Family Doctor: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Dermatologist Doctor: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Gastroenterologist Doctor: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study ER Doctor: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Comedian: write a sentence for me to fill in the blank, and I'll try to pick the correct option.Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Actress: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Constitutional Law: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Executive Management: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Economics: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Finances: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Design: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Fashion: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Photography: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Animation: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Special Effects: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Dentistry: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Martial Arts: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Sports: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study javascript: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study HTML: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study C Programming languaje: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Perl: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Maritime Law: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Captain's license study guide: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Private Pilot certificate: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Magic: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Scuba Diving: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Acting: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Journalism: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Spanish: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study French: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Japanese: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Web Development: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study CNC: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Machining: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Pharmacy: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Nurseing: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Painting: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Writing: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Marketing: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Social Studies: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Wheather: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Social Engeneering: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Hacker: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Pentesting: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Network Security: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Artificial Inteligence: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Communications: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Banking: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Investing: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
+Help me study Real State: write a sentence for me to fill in the blank, and I'll try to pick the correct option. Then you can rate me by adding a point to a counter and continue the questioning, always with same subject until I ask you to stop.
