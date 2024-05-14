@@ -71,15 +71,11 @@ async def respond(audio):
         await communicate.save(tmp_path)
     yield tmp_path
 
-DESCRIPTION = """ # <center><b>JARVIS 🤖 🧠 🧬</b></center>
-        ### <center>An Artificial Intelligence Assistant for YOU
-        ### <center>Talk to - JARVIS</center>
+DESCRIPTION = """ JARVIS 🤖 🧠 🧬
+        An Artificial Intelligence Assistant for YOU
+        Talk to - JARVIS
         """
 
-MORE = """ ## TRY Other Models
-        ### Instant Video: Create Amazing Videos in 5 Second -> https://huggingface.co/spaces/KingNish/Instant-Video
-        ### Instant Image: 4k images in 5 Second -> https://huggingface.co/spaces/KingNish/Instant-Image
-        """
 
 BETA = """ ### Voice Chat"""
 
